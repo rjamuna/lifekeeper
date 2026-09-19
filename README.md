@@ -600,4 +600,29 @@ GitHub: [https://github.com/rjamuna](https://github.com/rjamuna)
 This project is intended for educational, hackathon, and portfolio purposes.
 
 ```
+
+### One small recommendation
+
+For the GitHub repository, set the description to:
+
+> **LifeKeeper — A smart personal reminder system that turns important documents, notes, and voice input into actionable reminders and timelines.**
+
+And add these repository topics:
+
+```text
+react
+nodejs
+express
+mongodb
+ai
+groq
+ocr
+tesseract
+reminder
+productivity
+hackathon
+javascript
+vite
+tailwindcss
+
 ```
