@@ -599,8 +599,6 @@ GitHub: [https://github.com/rjamuna](https://github.com/rjamuna)
 
 This project is intended for educational, hackathon, and portfolio purposes.
 
-```
-```
 ### One small recommendation
 
 For the GitHub repository, set the description to:
