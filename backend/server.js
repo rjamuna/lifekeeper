@@ -31,4 +31,6 @@ app.use("/api/documents", authMiddleware, documentsRoute);
 app.use((req, res) => res.status(404).json({ success: false, message: "Route not found" }));
 app.use(errorHandler);
 
-app.listen(PORT, () => console.log(`LifeKeeper backend running on http://localhost:${PORT}`));
+app.listen(PORT, "0.0.0.0", () => {
+  console.log(`LifeKeeper backend running on port ${PORT}`);
+});
